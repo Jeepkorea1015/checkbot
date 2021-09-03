@@ -21,4 +21,4 @@ async def on_message(message):
         await message.channel.send ("{}, 봇이 정상 작동중 입니다.".format(message.author.mention))         
 
 
-client.run('ODgzMTg2ODc3Nzk1MDQxMzAx.YTGR4A.uyQYUaWkIk5oDzefMNmGwYnzrjA')
+client.run('ODgzMTg2ODc3Nzk1MDQxMzAx.YTGR4A.v2q6XznPeEa_8fdgF_ygmmUeq1s')
